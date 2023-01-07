@@ -1,1 +1,1 @@
-# imagse
+# images
